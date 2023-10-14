@@ -1,0 +1,16 @@
+.App{
+    text-align: center;
+}
+
+.blogsheet{
+    background-image: url(https://st3.depositphotos.com/1420973/13943/i/1600/depositphotos_139430658-stock-photo-blog-concept-word-cloud-print.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.box1,.box2  {
+    border: 3px solid black;
+    background: transparent;
+}
+.savehead{
+    border: 2px solid black;
+}
